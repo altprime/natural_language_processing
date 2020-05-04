@@ -1,1 +1,1 @@
-Here we perform sentiment classification: postive or negative on the Amazon Foor Reviews Dataset. I have placed the dataset in the the <b>./dataset/</b> folder and the output screenshots are in the <b>./results/</b> folder.
+Here we perform sentiment classification: postive or negative on the Amazon Foor Reviews Dataset. I have placed the output screenshots are in the <b>./results/</b> folder. The dataset is quite beyond Github's 25MB limit but you can donwload it from <a href="https://www.kaggle.com/snap/amazon-fine-food-reviews">here</a>.
