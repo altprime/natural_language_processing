@@ -1,0 +1,1 @@
+Here we use logistic regression and NLP to perform spam classification. I was able to get 94% accuracy. The dataset used is from a Kaggle competition and is available in the <b>./dataset/</b> fodler. I have also added screenshots of accuracy in the <b>./results/</b> folder.
