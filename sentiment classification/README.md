@@ -1,0 +1,1 @@
+Here we perform sentiment classification: postive or negative on the Amazon Foor Reviews Dataset. I have placed the dataset in the the <b>./dataset/</b> folder and the output screenshots are in the <b>./results/</b> folder.
